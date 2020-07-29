@@ -2,8 +2,6 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/.vs/dns-relay/v16/Browse.VC.db
-/dns-relay/源2.cpp
+
 /dns-relay/.vs/dns-relay/v16/Browse.VC.db
-/.vs/dns-relay/v16/.suo
 /dns-relay/.vs/dns-relay/v16/Browse.VC.opendb
